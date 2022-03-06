@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dgodfrey95
+- 👋 Hi, I’m @dgodfrey
 - 👀 I’m interested in chess, programming, and movies.
 - 🌱 I’m currently learning algorithms and data structures.
 - 📫 How to reach me:
