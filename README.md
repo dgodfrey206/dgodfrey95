@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @dgodfrey
-- 👀 I’m interested in chess, programming, and movies.
-- 🌱 I’m currently learning algorithms and data structures.
+- 👀 I’m interested in chess, programming, and movies. You may find me a lot on [StackOverflow](https://stackoverflow.com/users/701092/david-g).
+- 🌱 I’m currently looking for a software development role.
 - 📫 How to reach me:
 -  Email: david.godfrey99@gmail.com
+-  
+-  Play with me: https://lichess.org/@/dgodfrey2
+
+As I said before, one of my hobbies is chess. One of the projects that I'm working on is an online chess game!
 
 <!---
 dgodfrey95/dgodfrey95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
