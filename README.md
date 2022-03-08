@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 -  Email: david.godfrey99@gmail.com
 
--  Play with me: https://lichess.org/@/dgodfrey2
+-  Play with me! Lichess: @/dgodfrey2
 
 As I said before, one of my hobbies is chess. One of the projects that I'm working on is an online chess game!
 
