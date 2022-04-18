@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dgodfrey
-- 👀 I’m interested in chess, programming, and movies. You may find me a lot on [StackOverflow](https://stackoverflow.com/users/701092/david-g).
+- 👀 I’m interested in chess, programming, and movies.
 - 🌱 I’m currently looking for a software development role.
 - 📫 How to reach me:
--  Email: david.godfrey99@gmail.com
 
 -  Play with me! Lichess: @dgodfrey2
 
